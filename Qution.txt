@@ -1,0 +1,33 @@
+Easy (Beginner Level)
+ 01.Write a function to add two numbers.
+ 02.Write a function to check if a number is even or odd.
+ Create a function that returns the length of a given string.
+ Write a function that converts a string to uppercase.
+ Write a function that checks if a string contains a specific word.
+ Write a function to return the first element of an array.
+ Create a function to check if a number is positive, negative, or zero.
+ Write a function that returns the largest of two numbers.
+ Write a function to calculate the factorial of a number.
+ Create a function to reverse an array.
+Medium (Intermediate Level)
+ Write a function that reverses a string.
+ Write a function that removes all duplicates from an array.
+ Create a function to merge two arrays and remove duplicates.
+ Write a function to count the occurrences of each character in a string.
+ Write a function that finds the longest word in a sentence.
+ Write a function to check if two arrays are equal.
+ Create a function that returns the Fibonacci sequence up to n numbers.
+ Write a function that capitalizes the first letter of each word in a sentence.
+ Create a function to check if a string is a palindrome.
+ Write a function to flatten a multi-dimensional array.
+Hard (Advanced Level)
+ Write a function that memoizes results of a function to improve performance.
+ Create a function that deep clones an object.
+ Write a function that debounces another function.
+ Implement a function to check if an object is empty.
+ Create a function that returns a promise after a delay.
+ Write a function to group array items by a specific property.
+ Implement a custom map function for arrays.
+ Write a function to implement currying.
+ Write a function that returns a throttled version of a given function.
+ Implement a function that finds the intersection of two arrays without duplicates.

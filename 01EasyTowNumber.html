@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h4>01. Write a function to add two numbers.</h4>
+    <p id="addnumber"></p>
+</body>
+<script>
+function addNumbers(x, y) {
+    return x + y;
+}
+
+// Prompt the user for two numbers
+let x = parseFloat(prompt('Enter the first number:'));
+console.log('First value:', x);
+
+let y = parseFloat(prompt('Enter the second number:'));
+console.log('Second value:', y);
+
+let totalNumber = addNumbers(x, y);
+
+// Display the result in the HTML
+document.getElementById("addnumber").innerHTML = `The sum of ${x} and ${y} is: ${totalNumber}`;
+</script>
+</html>
