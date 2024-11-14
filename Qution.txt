@@ -31,3 +31,25 @@ Hard (Advanced Level)
  Write a function to implement currying.
  Write a function that returns a throttled version of a given function.
  Implement a function that finds the intersection of two arrays without duplicates.
+Hard (Advanced Level) - Additional Set
+ Write a function that implements a basic event emitter with .on, .emit, and .off methods.
+ Create a function that transforms an array of objects into a nested object based on a property.
+ Write a function to find the longest substring without repeating characters in a given string.
+ Implement a function that parses and evaluates a mathematical expression given as a string.
+ Write a function that shuffles an array randomly (e.g., Fisher-Yates shuffle algorithm).
+ Implement a function that merges two sorted arrays into one sorted array without duplicates.
+ Write a function that calculates the power of a number using recursion (e.g., power(base, exponent)).
+ Implement a Promise.all function from scratch that takes an array of promises and returns a single promise.
+ Write a function to convert a flat array of objects into a tree structure based on a parentId field.
+ Implement a function to deep freeze an object so that it becomes fully immutable.
+Hard (Advanced Level) - Additional Set
+ Write a function that generates all permutations of a given string.
+ Create a function that implements a rate limiter, allowing a function to only be called a set number of times per interval.
+ Implement a function that finds the missing number in an array of integers from 1 to n.
+ Write a function that checks if two strings are anagrams of each other.
+ Create a function to find all unique triplets in an array that add up to zero.
+ Implement a function that performs a binary search on a sorted array.
+ Write a function that converts an integer to its Roman numeral representation.
+ Implement a function that flattens an object with nested properties (e.g., {a: {b: 1}} becomes { 'a.b': 1 }).
+ Write a function that finds the median of two sorted arrays.
+ Implement a function to convert a callback-based function to return a Promise instead (a "promisify" function).
